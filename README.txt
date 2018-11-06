@@ -166,4 +166,7 @@
 	git diff --cached --name-only
 	git reset &>/dev/null
 
+19) Lambda handler description for GoLang
+	The executable file name value. For example, "myHandler" would call the main 		function in the package “main” of the myHandler executable program.
+
 
